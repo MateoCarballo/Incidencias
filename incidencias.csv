@@ -1,0 +1,13 @@
+id,fecha,cliente,problema,solucion,usuario,estado
+1,2026-03-10 22:29,Alkanatur,Problema numero 1,Solucion para el problema numero 1,Alex,Resuelto
+1,2026-03-10 22:31,Alkanatur,Problema2,Solucion2,Sistemas,En estudio
+2,2026-03-10 22:31,Otis,Problemon 3,Solucion 3,David,Abierto
+3,2026-03-10 23:09,Otis,"asdasdasada
+asdasd
+asdasd
+asd","asdasda
+asdas
+dasd
+asdas",David,Resuelto
+4,2026-03-10 23:09,Alkanatur,Problemons,12341234123434,USER,Ni idea
+5,2026-03-10 23:18,AIC,2143214,124312341234,Miguel,Resuelto

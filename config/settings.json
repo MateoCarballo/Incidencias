@@ -1,3 +1,23 @@
 {
-  "ARCHIVO_CSV": "incidencias.csv"
+  "ARCHIVO_CSV": "incidencias.csv",
+  "CLIENTES": [
+    "Alkanatur",
+    "Otis",
+    "AIC",
+    "Vainica suites"
+  ],
+  "USUARIOS": [
+    "Atenea",
+    "Tania",
+    "Alex",
+    "David",
+    "Miguel",
+    "Mateo",
+    "Carla",
+    "Jose Antonio"
+  ],
+  "ESTADOS": [
+    "Abierto",
+    "Cerrado"
+  ]
 }
